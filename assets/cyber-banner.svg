@@ -1,10 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1199" height="675" viewBox="0 0 1199 675">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
 <defs>
- <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-opacity="0"/><stop offset="0.5" stop-opacity="0.55"/><stop offset="1" stop-opacity="0"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0b1230"/><stop offset="1" stop-color="#180b32"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2f7bff"/><stop offset="1" stop-color="#b14cff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFRQYHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAJrAuEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwVCUmJydHh8BUjOSY4cRQjVE6Ky/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEBAAICAgICAgMBAAAAAAAAAQIRAxIhMQQTQVEiMmFxgZGh8P/aAAwDAQACEQMRAD8A...REPLACED_BY_TOOL_CONTENT..." x="0" y="0" width="1199" height="675" preserveAspectRatio="xMidYMid slice"/>
-<rect x="0" y="0" width="1199" height="675" fill="none" stroke="#3867ff" stroke-width="3" opacity="0.7"/>
-<rect x="0" y="-120" width="1199" height="120" fill="url(#scan)" opacity="0.35"><animate attributeName="y" from="-120" to="675" dur="5s" repeatCount="indefinite"/></rect>
-<g opacity="0.8" filter="url(#glow)"><path d="M24 70h120M24 78h65M1050 590h125M1100 598h75" stroke="#4b7cff" stroke-width="2"/><circle cx="1080" cy="85" r="4" fill="#a855f7"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<rect width="1200" height="420" fill="url(#bg)"/>
+<g opacity=".16" stroke="#4c75ff" fill="none"><path d="M0 70h300M0 140h220M900 80h300M980 150h220M0 340h330M870 350h330"/><path d="M120 0v420M1080 0v420"/></g>
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8"><path d="M55 80h160l30 30h130"/><path d="M75 115h100"/><path d="M930 80h140l35 35h70"/><path d="M900 330h170l30-30h70"/></g>
+<g filter="url(#glow)" stroke="#377dff" fill="none"><circle cx="160" cy="250" r="72"/><path d="M120 250c20-45 60-45 80 0-20 45-60 45-80 0Z"/><path d="M145 210v80M175 210v80M125 240h70M125 260h70"/></g>
+<g transform="translate(600 30)"><rect x="-245" y="55" width="490" height="255" rx="18" fill="#070b19" stroke="#386fff" stroke-width="3"/><rect x="-220" y="80" width="440" height="190" fill="#0a1024" stroke="#233b72"/>
+<g stroke="#3b82f6" opacity=".8"><path d="M-190 110h180M-190 125h130M-190 140h155M-190 170h210M-190 185h165M-190 200h230"/><path d="M40 110h130M40 125h155M40 140h95M40 170h155M40 185h120M40 200h170"/></g>
+<circle cx="0" cy="35" r="28" fill="none" stroke="#9b4dff" stroke-width="3"><animate attributeName="r" values="26;32;26" dur="2s" repeatCount="indefinite"/></circle><path d="M-12 35h24M0 23v24" stroke="#9b4dff" stroke-width="3"/></g>
+<g fill="#fff" font-family="Arial, sans-serif" text-anchor="middle"><text x="600" y="355" font-size="26" font-weight="700" fill="#7fb0ff">RICARDONULL</text><text x="600" y="382" font-size="15" fill="#aab8df">AI • CODE • FUTURE</text></g>
+<rect x="0" y="0" width="1200" height="420" fill="none" stroke="#3867ff" stroke-width="3" opacity=".65"/>
+<rect x="0" y="-70" width="1200" height="70" fill="#6ea8ff" opacity=".06"><animate attributeName="y" from="-70" to="420" dur="4.5s" repeatCount="indefinite"/></rect>
+<circle cx="1080" cy="250" r="5" fill="#b14cff"><animate attributeName="opacity" values=".15;1;.15" dur="1.6s" repeatCount="indefinite"/></circle>
 </svg>
