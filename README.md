@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/cyber-banner.svg" width="100%" alt="Banner gamer futurista" />
+</div>
+
 # 👋 Olá, eu sou Ricardo Rafael!
 
 ### 🤖 Estudante de Inteligência Artificial no PIT • Desenvolvedor em formação
