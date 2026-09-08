@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1199" height="675" viewBox="0 0 1199 675">
+<defs>
+ <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-opacity="0"/><stop offset="0.5" stop-opacity="0.55"/><stop offset="1" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFRQYHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAJrAuEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwVCUmJydHh8BUjOSY4cRQjVE6Ky/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEBAAICAgICAgMBAAAAAAAAAQIRAxIhMQQTQVEiMmFxgZGh8P/aAAwDAQACEQMRAD8A...REPLACED_BY_TOOL_CONTENT..." x="0" y="0" width="1199" height="675" preserveAspectRatio="xMidYMid slice"/>
+<rect x="0" y="0" width="1199" height="675" fill="none" stroke="#3867ff" stroke-width="3" opacity="0.7"/>
+<rect x="0" y="-120" width="1199" height="120" fill="url(#scan)" opacity="0.35"><animate attributeName="y" from="-120" to="675" dur="5s" repeatCount="indefinite"/></rect>
+<g opacity="0.8" filter="url(#glow)"><path d="M24 70h120M24 78h65M1050 590h125M1100 598h75" stroke="#4b7cff" stroke-width="2"/><circle cx="1080" cy="85" r="4" fill="#a855f7"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle></g>
+</svg>
