@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Ricardo Rafael
 
-### 💻 Estudante de tecnologia • Desenvolvedor em formação • Entusiasta de inovação
+### 💻 Estudante e desenvolvedor em formação
 
 <p align="center">
   <a href="https://github.com/Ricardonull">
-    <img src="https://komarev.com/ghpvc/?username=Ricardonull&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="visitas ao perfil" />
+    <img src="https://komarev.com/ghpvc/?username=Ricardonull&label=Visitas%20ao%20perfil&style=flat" alt="visitas ao perfil" />
   </a>
   <a href="https://github.com/Ricardonull?tab=followers">
     <img src="https://img.shields.io/github/followers/Ricardonull?label=Seguidores&style=flat" alt="seguidores" />
@@ -15,26 +15,24 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante e desenvolvedor em formação, construindo minha trajetória na tecnologia através de projetos, estudos e experiências práticas.
+Sou estudante e desenvolvedor em formação, interessado em tecnologia, programação e desenvolvimento de soluções práticas.
 
-Tenho interesse em **desenvolvimento de software, inteligência artificial, inovação e criação de soluções que gerem impacto real**. Meu objetivo é transformar ideias em projetos úteis, aprender continuamente e evoluir como profissional.
+Tenho buscado aprender continuamente e transformar meus estudos em projetos, construindo minha experiência na área de tecnologia.
 
-- 🎓 Estudante e desenvolvedor em formação
-- 💡 Interessado em tecnologia e inovação
-- 🌎 Buscando experiências e oportunidades internacionais
-- 🧠 Aprendendo na prática e construindo projetos
-- 🔭 Atualmente focado em evoluir minhas habilidades de programação
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github" alt="Tecnologias" />
 </p>
 
-## 📊 GitHub Analytics
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricardonull&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricardonull&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardonull&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
@@ -48,32 +46,21 @@ Tenho interesse em **desenvolvimento de software, inteligência artificial, inov
   <img src="https://github-profile-trophy.vercel.app/?username=Ricardonull&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
-> 🚧 Esta seção será atualizada conforme novos projetos forem publicados.
+Ainda estou construindo e publicando meus projetos. Esta seção será atualizada conforme novos trabalhos forem adicionados ao GitHub.
 
-### 🔹 Projetos que estou construindo
-
-- 💻 Projetos de desenvolvimento e programação
-- 🤖 Exploração de novas tecnologias e IA
-- 🌎 Ideias voltadas para inovação e impacto social
-
-## 📈 Minha jornada
+## 📈 Jornada
 
 ```text
-Aprender → Praticar → Construir → Compartilhar → Evoluir
+Aprender → Praticar → Construir → Evoluir
 ```
 
-Cada projeto é uma oportunidade para transformar conhecimento em experiência.
-
-## 📫 Vamos conectar?
+## 📫 Contato
 
 <p align="left">
   <a href="https://github.com/Ricardonull">
     <img src="https://img.shields.io/badge/GitHub-Ricardonull-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:ricardopit356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
