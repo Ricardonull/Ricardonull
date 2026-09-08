@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Ricardo Rafael
+# 👋 Olá, eu sou Ricardo Rafael!
 
-### 💻 Estudante e desenvolvedor em formação
+### 🤖 Estudante de Inteligência Artificial no PIT • Desenvolvedor em formação
 
 <p align="center">
   <a href="https://github.com/Ricardonull">
@@ -13,23 +13,28 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante e desenvolvedor em formação, interessado em tecnologia, programação e desenvolvimento de soluções práticas.
+🎓 Faço faculdade de **Inteligência Artificial no PIT (Piauí Instituto de Tecnologia)**.
 
-Tenho buscado aprender continuamente e transformar meus estudos em projetos, construindo minha experiência na área de tecnologia.
+💻 Estou construindo minha trajetória na tecnologia através dos estudos, da programação e da prática.
 
-## 🛠️ Tecnologias
+🤖 Tenho interesse em **Inteligência Artificial, desenvolvimento de software e novas tecnologias**.
+
+🚀 Meu objetivo é aprender, criar projetos e evoluir constantemente como desenvolvedor.
+
+## 🛠️ Tecnologias que estou estudando
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,git,github" alt="Tecnologias" />
 </p>
 
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+- 🟨 JavaScript
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 🤖 Inteligência Artificial — em formação
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ricardonull&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
@@ -46,17 +51,25 @@ Tenho buscado aprender continuamente e transformar meus estudos em projetos, con
   <img src="https://github-profile-trophy.vercel.app/?username=Ricardonull&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-## 📌 Projetos
+## 🚧 Projetos
 
-Ainda estou construindo e publicando meus projetos. Esta seção será atualizada conforme novos trabalhos forem adicionados ao GitHub.
+Ainda estou construindo e publicando meus projetos. Conforme novos trabalhos forem desenvolvidos, eles aparecerão aqui. 👨‍💻
 
-## 📈 Jornada
+## ⚡ Minha jornada
 
 ```text
-Aprender → Praticar → Construir → Evoluir
+🎓 Estudar
+   ↓
+🧠 Aprender
+   ↓
+💻 Praticar
+   ↓
+🤖 Criar
+   ↓
+🚀 Evoluir
 ```
 
-## 📫 Contato
+## 📫 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Ricardonull">
@@ -67,5 +80,5 @@ Aprender → Praticar → Construir → Evoluir
 ---
 
 <p align="center">
-  <b>⭐ Sempre aprendendo. Sempre construindo.</b>
+  🤖 <b>Aprendendo Inteligência Artificial. Construindo meu futuro na tecnologia.</b> 🚀
 </p>
